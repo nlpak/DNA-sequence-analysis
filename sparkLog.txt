@@ -1,0 +1,27 @@
+[13:52:32] MapPartitionsRDD processed!
+[13:52:32] bwaResult_flatMap :  memsize = 1469614320, diskSize = 0, numPartitions = 4
+[13:52:32] MapPartitionsRDD processed!
+[13:52:32] ParallelCollectionRDD processed!
+[13:52:32] MapPartitionsRDD processed!
+[13:52:32] MapPartitionsRDD processed!
+[13:52:32] ShuffledRDD processed!
+[13:52:32] MapPartitionsRDD processed!
+[13:52:32] MapPartitionsRDD processed!
+[13:52:33] MapPartitionsRDD processed!
+[13:52:33] ShuffledRDD processed!
+[13:52:56] MapPartitionsRDD processed!
+[13:52:56] ShuffledRDD processed!
+[13:52:56] ChrWithReadCount processed!
+[13:52:56] Chr_RegionNo processed!
+[13:52:56] MapPartitionsRDD processed!
+[13:52:56] ShuffledRDD processed!
+[13:52:56] CoalescedRDD processed!
+[13:52:57] bwaResult_flatMap processed!
+[13:52:57] MapPartitionsRDD processed!
+[13:52:57] ParallelCollectionRDD processed!
+[13:52:57] MapPartitionsRDD processed!
+[13:54:51] Region_Chr_RedPostion_SamRecord processed!
+[13:54:51] MapPartitionsRDD processed!
+[13:54:51] MapPartitionsRDD processed!
+[13:54:51] CoGroupedRDD processed!
+[13:54:51] Region_Chr_SamRecord processed!

@@ -1,0 +1,9 @@
+<configuration>
+	<refFolder>/data/spark/ref</refFolder>
+	<toolsFolder>/data/spark/tools</toolsFolder>
+	<tmpFolder>/data/najeeb/tmp</tmpFolder> <!-- Use something like /data/yourusername. Never use a shared dir -->
+	<inputFolder>/data/najeeb/inputFolder</inputFolder>
+	<outputFolder>/data/najeeb/output</outputFolder> 
+	<numInstances>4</numInstances>
+	<numThreads>4</numThreads>
+</configuration>
